@@ -1,16 +1,13 @@
-# Riah Studio
+Hey guys, I made a bunch of tools for myself, or as projects, and figured maybe other people would like them too. Feel free to use or repurpose them. Warning - I'm not an engineer, these may need a bit of reworking, but hey, that's kinda what AI is for, right?
 
-I make small, free tools for people who work with AI every day. They run on your own machine,
-with no account and no tracking.
+[Swipe](https://github.com/RiahStudio/riah-swipe) - My number 2 most used tool. Swiping is fun. I use this to make choosing images, videos, whatever, much quicker and more enjoyable.
 
-| Tool | What it does |
-| --- | --- |
-| [Riah Swipe](https://github.com/RiahStudio/riah-swipe) | Swipe through a batch of AI-made drafts and keep the good ones. [Try the demo](https://riahstudio.com/riahswipe). |
-| [Selah](https://github.com/RiahStudio/selah) | The Hebrew Bible's cantillation marks, played as music. A browser instrument, plus a script that writes every verse as MIDI. |
-| [Riah Usage](https://github.com/RiahStudio/riah-usage) | Every AI plan's usage meter (Claude, Codex, Cursor, Gemini and more) on one local page. |
-| [The Full Toolkit](https://github.com/RiahStudio/riah-full-toolkit) | Four packs of playbooks and Claude Code skills for building with AI agents. |
-| [Riah To-Do](https://github.com/RiahStudio/riah-todo) | Today's list as a note by the Windows clock. |
-| [Riah Extensions](https://github.com/RiahStudio/riah-extensions) | Small browser extensions that each do one job, with minimal permissions. |
+[Selah](https://github.com/RiahStudio/selah) - A little side project that lets you DJ the Bible. Super simple, but honestly pretty cool.
 
-Everything here is MIT licensed. If something breaks or you have an idea, open an issue on that
-repo. More at [riahstudio.com](https://riahstudio.com).
+[Usage](https://github.com/RiahStudio/riah-usage) - My number 1 tool. See how much AI you've got left at a glance.
+
+[Toolkit](https://github.com/RiahStudio/riah-full-toolkit) - Some .MDs that seem to help my system run smoother. Results may vary.
+
+[Extensions](https://github.com/RiahStudio/riah-extensions) - Levelsio said one of the most underrated security hacks is to code your own browser extensions. Here are my super simple ones as a starting point for your AI.
+
+[To-Do](https://github.com/RiahStudio/riah-todo) - Want to do (title card!) things? Well now you can... keep track of the things. No idea about getting them done. That's on you, big dawg.
